@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-04T16:42:23.113Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="mFI61dpgkZkaAQkl9-pD" version="13.7.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-10-04T17:36:07.591Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="_DHuw-l4VVRAPixwfr_r" version="13.7.7" type="github" pages="2">
   <diagram id="MGE0amIgMyFyMzsWidT_" name="Mutex - spinlock">
     <mxGraphModel dx="1185" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -232,11 +232,14 @@
         <mxCell id="G235KOUm36JRrY9uVVRr-0" value="&lt;font face=&quot;Garamond&quot; color=&quot;#006633&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 36px&quot;&gt;Спин-блокировка на мьютексе&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="egzKSEprmWDQXE4lO2Hz-1">
           <mxGeometry x="40" y="40" width="920" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="_kNGEcyH6tN4Kq5b5k_X-0" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px&quot;&gt;Наличие блокировки потока 2 не учитывается при планировании&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006633;" vertex="1" parent="egzKSEprmWDQXE4lO2Hz-1">
+          <mxGeometry x="310" y="580" width="590" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="Mutex - queue" id="ASGZ3K-WkQ0-r-J1xUNQ">
-    <mxGraphModel dx="1422" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="yh3LMR_NNYSIdBTZSJ3h-0" />
         <mxCell id="yh3LMR_NNYSIdBTZSJ3h-1" parent="yh3LMR_NNYSIdBTZSJ3h-0" />
@@ -405,8 +408,20 @@
         <mxCell id="GddL1m6ZqGgKWiHQ9kwL-0" value="&lt;font face=&quot;Garamond&quot; color=&quot;#006633&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 36px&quot;&gt;Учет блокировки на мьютексе планировщиком ОС&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yh3LMR_NNYSIdBTZSJ3h-1">
           <mxGeometry x="40" y="40" width="920" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="GddL1m6ZqGgKWiHQ9kwL-1" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px&quot;&gt;ОС переводит поток в&amp;nbsp; заблокированное состояние&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006633;" vertex="1" parent="yh3LMR_NNYSIdBTZSJ3h-1">
-          <mxGeometry x="80" y="580" width="450" height="20" as="geometry" />
+        <mxCell id="GddL1m6ZqGgKWiHQ9kwL-1" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px&quot;&gt;ОС переводит поток 2 в&amp;nbsp; заблокированное состояние&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#006633;" vertex="1" parent="yh3LMR_NNYSIdBTZSJ3h-1">
+          <mxGeometry x="310" y="580" width="450" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UAjm2Q3lkkWxLT09DMD2-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Поток 1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yh3LMR_NNYSIdBTZSJ3h-1">
+          <mxGeometry x="40" y="160" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UAjm2Q3lkkWxLT09DMD2-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Поток 2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="yh3LMR_NNYSIdBTZSJ3h-1">
+          <mxGeometry x="40" y="540" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UAjm2Q3lkkWxLT09DMD2-2" value="" style="endArrow=classic;html=1;fontColor=#006633;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="yh3LMR_NNYSIdBTZSJ3h-1" source="GddL1m6ZqGgKWiHQ9kwL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="310" as="sourcePoint" />
+            <mxPoint x="530" y="500" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
