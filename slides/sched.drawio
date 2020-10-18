@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T13:29:33.473Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="mr7m9XRPZ2WcTiA-17dX" version="13.8.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2020-10-18T13:32:43.132Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="kRXhJYfyMpdXvD1BtUU1" version="13.8.0" type="github" pages="8">
   <diagram id="nSJxbqhqykkziwxOkiMd" name="ProcLife">
     <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -870,7 +870,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SJF - contd" id="TjsS1orP9oNhnrNOrXyT">
-    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2031" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="6QYxurUJZNgVGXrxRR0h-0" />
         <mxCell id="6QYxurUJZNgVGXrxRR0h-1" parent="6QYxurUJZNgVGXrxRR0h-0" />
@@ -994,8 +994,8 @@
             <mxPoint x="600.0600000000002" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LKtKOftsoK3T-ST6gz5t-10" value="&lt;font style=&quot;font-size: 24px&quot;&gt;А&lt;sub&gt;полн&lt;/sub&gt; = &lt;/font&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;(&lt;font color=&quot;#006600&quot;&gt;18&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;+ &lt;font color=&quot;#990000&quot;&gt;8&amp;nbsp;&lt;/font&gt;+ &lt;font color=&quot;#999900&quot;&gt;3&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;)/3 = 29/3&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6QYxurUJZNgVGXrxRR0h-1">
-          <mxGeometry x="817.5999999999999" y="380" width="320" height="30" as="geometry" />
+        <mxCell id="LKtKOftsoK3T-ST6gz5t-10" value="&lt;font style=&quot;font-size: 24px&quot;&gt;А&lt;sub&gt;полн&lt;/sub&gt; = &lt;/font&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;(&lt;font color=&quot;#006600&quot;&gt;10&lt;/font&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;+ 12&lt;font color=&quot;#990000&quot;&gt;&amp;nbsp;&lt;/font&gt;+ &lt;font color=&quot;#999900&quot;&gt;4&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;)/3 = 29/3&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="6QYxurUJZNgVGXrxRR0h-1">
+          <mxGeometry x="812.5999999999999" y="380" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LKtKOftsoK3T-ST6gz5t-11" value="" style="endArrow=classic;html=1;strokeWidth=6;strokeColor=#009900;" edge="1" parent="6QYxurUJZNgVGXrxRR0h-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
