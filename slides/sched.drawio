@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T17:45:17.276Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="xVydnMlgPtx-GfpbO15X" version="13.8.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2020-10-18T19:30:38.939Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="RFlhfhj3dMiIIM5EHOXM" version="13.8.0" type="github" pages="11">
   <diagram id="nSJxbqhqykkziwxOkiMd" name="ProcLife">
     <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1165,7 +1165,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Latency" id="BhclGRRl_mBNTPUJX11h">
-    <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="753" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="BemcBFSlGEh0txx877ZM-0" />
         <mxCell id="BemcBFSlGEh0txx877ZM-1" parent="BemcBFSlGEh0txx877ZM-0" />
@@ -1175,7 +1175,7 @@
         <mxCell id="N83NiR-4AmDHaIJoPHfI-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="BemcBFSlGEh0txx877ZM-1">
           <mxGeometry x="280" y="740" width="160" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="BemcBFSlGEh0txx877ZM-3" value="&lt;font color=&quot;#006633&quot; face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Запаздывание как критерий&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BemcBFSlGEh0txx877ZM-1">
+        <mxCell id="BemcBFSlGEh0txx877ZM-3" value="&lt;font color=&quot;#006633&quot; face=&quot;Garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Время отклика как критерий&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="BemcBFSlGEh0txx877ZM-1">
           <mxGeometry x="40" y="40" width="1060" height="20" as="geometry" />
         </mxCell>
         <mxCell id="BemcBFSlGEh0txx877ZM-4" value="D = 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="BemcBFSlGEh0txx877ZM-1">
@@ -1433,7 +1433,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="MLFQ" id="T70sbADS2aE5q0Lxk4UB">
-    <mxGraphModel dx="1185" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="628" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="YKe3jIzKiTQd0765VzcK-0" />
         <mxCell id="YKe3jIzKiTQd0765VzcK-1" parent="YKe3jIzKiTQd0765VzcK-0" />
