@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-18T14:27:23.270Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="lmq2LqG3kjOq__JXXIOf" version="13.8.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2020-10-18T16:32:44.961Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="ACPiKy1zZjjkwBV0vzXC" version="13.8.0" type="github" pages="10">
   <diagram id="nSJxbqhqykkziwxOkiMd" name="ProcLife">
     <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1426,8 +1426,8 @@
         <mxCell id="6-GjbtNFi4LgmsGq-Eyh-0" value="&lt;font style=&quot;font-size: 24px&quot;&gt;А&lt;sub&gt;полн&lt;/sub&gt; = (Т&lt;sub&gt;полн1&lt;/sub&gt;&amp;nbsp;+ ... + Т&lt;sub&gt;полнn&lt;/sub&gt;)/n&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="hc9JoFgABw3rfDBD1KdF-1">
           <mxGeometry x="520" y="170" width="350" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6-GjbtNFi4LgmsGq-Eyh-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;А&lt;sub&gt;полн&lt;/sub&gt; = (&lt;font color=&quot;#006600&quot;&gt;18&amp;nbsp;&lt;/font&gt;+ &lt;font color=&quot;#990000&quot;&gt;12&lt;/font&gt; + &lt;font color=&quot;#999900&quot;&gt;7&lt;/font&gt;)/3&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="hc9JoFgABw3rfDBD1KdF-1">
-          <mxGeometry x="795" y="280" width="260" height="30" as="geometry" />
+        <mxCell id="6-GjbtNFi4LgmsGq-Eyh-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;А&lt;sub&gt;полн&lt;/sub&gt; = (&lt;font color=&quot;#006600&quot;&gt;18&amp;nbsp;&lt;/font&gt;+ &lt;font color=&quot;#990000&quot;&gt;12&lt;/font&gt; + &lt;font color=&quot;#999900&quot;&gt;7&lt;/font&gt;)/3 = 37/3&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="hc9JoFgABw3rfDBD1KdF-1">
+          <mxGeometry x="760" y="280" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
