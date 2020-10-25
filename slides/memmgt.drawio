@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-25T19:13:09.222Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="oZg_R1fl0U5ohz4d_TUS" version="13.8.2" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2020-10-25T19:28:34.214Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="BCLv1ribAw7NuEuTxPWK" version="13.8.2" type="github" pages="34">
   <diagram id="Hq_yZwOrh3xCcCDJItGe" name="P01">
     <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3594,13 +3594,16 @@
         <mxCell id="G68bgMtMBXJ_naNZayrp-40" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 24px&quot;&gt;ОС&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="G68bgMtMBXJ_naNZayrp-1" vertex="1">
           <mxGeometry x="87.5" y="405" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G68bgMtMBXJ_naNZayrp-51" value="&lt;font style=&quot;font-size: 20px ; background-color: rgb(255 , 181 , 112)&quot; color=&quot;#ff0000&quot;&gt;&lt;b&gt;&lt;i&gt;Некоторым страницам не соответствуют фреймы!&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=#ffffff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="G68bgMtMBXJ_naNZayrp-1" vertex="1">
-          <mxGeometry x="440" y="620" width="650" height="40" as="geometry" />
+        <mxCell id="qdR77kMPfM96wfs8AK3n-0" value="&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;Алгоритмы трансляции адресов: страничная организация&lt;/b&gt;&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G68bgMtMBXJ_naNZayrp-1">
+          <mxGeometry x="40" y="40" width="1030" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="tG8CdZnmBMwvU-oRtgkK-0" value="" style="shape=flexArrow;endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="G68bgMtMBXJ_naNZayrp-1" source="G68bgMtMBXJ_naNZayrp-51" edge="1">
+        <mxCell id="fTYViaSJd9ZvjE1t-UhZ-0" value="&lt;h2&gt;&lt;font style=&quot;font-size: 20px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;Странице не соответствует фрейм - она расположена во внешней памяти&lt;/i&gt;&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="G68bgMtMBXJ_naNZayrp-1">
+          <mxGeometry x="350" y="630" width="790" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fTYViaSJd9ZvjE1t-UhZ-4" value="" style="endArrow=classic;html=1;dashed=1;" edge="1" parent="G68bgMtMBXJ_naNZayrp-1" source="fTYViaSJd9ZvjE1t-UhZ-0">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="10" y="800" as="sourcePoint" />
-            <mxPoint x="320" y="640" as="targetPoint" />
+            <mxPoint x="560" y="430" as="sourcePoint" />
+            <mxPoint x="270" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
@@ -3746,11 +3749,14 @@
         <mxCell id="Uc_SRiGl-vx5SllfUNJ6-36" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 24px&quot;&gt;ОС&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uc_SRiGl-vx5SllfUNJ6-1" vertex="1">
           <mxGeometry x="87.5" y="405" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Uc_SRiGl-vx5SllfUNJ6-37" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Некоторым страницам не соответствуют фреймы!&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uc_SRiGl-vx5SllfUNJ6-1" vertex="1">
-          <mxGeometry x="365" y="630" width="650" height="40" as="geometry" />
+        <mxCell id="Uc_SRiGl-vx5SllfUNJ6-38" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;i&gt;&lt;b&gt;При выборе таких страниц управление передается ОС&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uc_SRiGl-vx5SllfUNJ6-1" vertex="1">
+          <mxGeometry x="405" y="680" width="615" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Uc_SRiGl-vx5SllfUNJ6-38" value="&lt;font style=&quot;font-size: 20px&quot;&gt;При выборе таких страниц управление передается ОС&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Uc_SRiGl-vx5SllfUNJ6-1" vertex="1">
-          <mxGeometry x="405" y="680" width="570" height="30" as="geometry" />
+        <mxCell id="a8fNjcd0ltJgnjnGE43X-2" value="&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;Алгоритмы трансляции адресов: страничная организация&lt;/b&gt;&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Uc_SRiGl-vx5SllfUNJ6-1">
+          <mxGeometry x="50" y="50" width="1030" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="a8fNjcd0ltJgnjnGE43X-3" value="&lt;h2&gt;&lt;font style=&quot;font-size: 20px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;Странице не соответствует фрейм - она расположена во внешней памяти&lt;/i&gt;&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Uc_SRiGl-vx5SllfUNJ6-1">
+          <mxGeometry x="360" y="640" width="790" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3895,8 +3901,11 @@
         <mxCell id="dF5-mQ-QtCVfd7f2ZBzv-36" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 24px&quot;&gt;ОС&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dF5-mQ-QtCVfd7f2ZBzv-1" vertex="1">
           <mxGeometry x="87.5" y="405" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="dF5-mQ-QtCVfd7f2ZBzv-37" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Дополним таблицу страниц признаком нахождения в RAM&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dF5-mQ-QtCVfd7f2ZBzv-1" vertex="1">
+        <mxCell id="dF5-mQ-QtCVfd7f2ZBzv-37" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;i&gt;&lt;b&gt;Дополним таблицу страниц признаком нахождения в RAM&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="dF5-mQ-QtCVfd7f2ZBzv-1" vertex="1">
           <mxGeometry x="365" y="520" width="650" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="beO0KFMofWFkCfjsyN8I-0" value="&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;Алгоритмы трансляции адресов: страничная организация&lt;/b&gt;&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dF5-mQ-QtCVfd7f2ZBzv-1">
+          <mxGeometry x="40" y="40" width="1030" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -4041,10 +4050,10 @@
         <mxCell id="hf1nJUzhysb4Vj3undfe-36" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 24px&quot;&gt;ОС&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hf1nJUzhysb4Vj3undfe-1" vertex="1">
           <mxGeometry x="87.5" y="405" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hf1nJUzhysb4Vj3undfe-37" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Дополним таблицу страниц признаком нахождения в RAM&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hf1nJUzhysb4Vj3undfe-1" vertex="1">
+        <mxCell id="hf1nJUzhysb4Vj3undfe-37" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;i&gt;&lt;b&gt;Дополним таблицу страниц признаком нахождения в RAM&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hf1nJUzhysb4Vj3undfe-1" vertex="1">
           <mxGeometry x="365" y="520" width="650" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="hf1nJUzhysb4Vj3undfe-38" value="&lt;font style=&quot;font-size: 20px&quot;&gt;ОС сможет подгружать страницы по мере того, как процесс&amp;nbsp; обращается к ним&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hf1nJUzhysb4Vj3undfe-1" vertex="1">
+        <mxCell id="hf1nJUzhysb4Vj3undfe-38" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;&lt;i&gt;ОС сможет подгружать страницы по мере того, как процесс&amp;nbsp; обращается к ним&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="hf1nJUzhysb4Vj3undfe-1" vertex="1">
           <mxGeometry x="402.5" y="600" width="575" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4pNbLLFvaKBqkRpYaYoF-0" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="hf1nJUzhysb4Vj3undfe-1" source="hf1nJUzhysb4Vj3undfe-37" target="hf1nJUzhysb4Vj3undfe-38" edge="1">
@@ -4052,6 +4061,9 @@
             <mxPoint x="584" y="590" as="sourcePoint" />
             <mxPoint x="634" y="540" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="COtITHE2wKpoHL7mQ5bh-0" value="&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;Алгоритмы трансляции адресов: страничная организация&lt;/b&gt;&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="hf1nJUzhysb4Vj3undfe-1">
+          <mxGeometry x="40" y="40" width="1030" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -4196,23 +4208,26 @@
         <mxCell id="8XTwvEhWA5K8CW26sneF-36" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 24px&quot;&gt;ОС&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8XTwvEhWA5K8CW26sneF-1" vertex="1">
           <mxGeometry x="87.5" y="405" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="8XTwvEhWA5K8CW26sneF-37" value="&lt;span style=&quot;font-size: 20px&quot;&gt;Дополним таблицу страниц признаком нахождения в RAM&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8XTwvEhWA5K8CW26sneF-1" vertex="1">
-          <mxGeometry x="365" y="520" width="650" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8XTwvEhWA5K8CW26sneF-38" value="&lt;font style=&quot;font-size: 20px&quot;&gt;ОС сможет подгружать страницы по мере того, как процесс&amp;nbsp; обращается к ним&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8XTwvEhWA5K8CW26sneF-1" vertex="1">
-          <mxGeometry x="402.5" y="600" width="575" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8XTwvEhWA5K8CW26sneF-39" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="8XTwvEhWA5K8CW26sneF-1" source="8XTwvEhWA5K8CW26sneF-37" target="8XTwvEhWA5K8CW26sneF-38" edge="1">
+        <mxCell id="8XTwvEhWA5K8CW26sneF-39" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="8XTwvEhWA5K8CW26sneF-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="584" y="590" as="sourcePoint" />
-            <mxPoint x="634" y="540" as="targetPoint" />
+            <mxPoint x="690" y="560" as="sourcePoint" />
+            <mxPoint x="690" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8XTwvEhWA5K8CW26sneF-40" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#ff0000&quot;&gt;&lt;b style=&quot;background-color: rgb(255 , 153 , 51)&quot;&gt;Что делать если все фреймы заполнены?&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8XTwvEhWA5K8CW26sneF-1" vertex="1">
+        <mxCell id="8XTwvEhWA5K8CW26sneF-40" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Что делать если все фреймы заполнены?&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="8XTwvEhWA5K8CW26sneF-1" vertex="1">
           <mxGeometry x="402.5" y="690" width="575" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9DzbsIXKwkr7DesB7ndc-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#000000;" parent="8XTwvEhWA5K8CW26sneF-1" vertex="1">
           <mxGeometry x="1040" y="240" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0f5G95TOEVrCO4OxdvQK-0" value="&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;i&gt;&lt;b&gt;Дополним таблицу страниц признаком нахождения в RAM&lt;/b&gt;&lt;/i&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8XTwvEhWA5K8CW26sneF-1">
+          <mxGeometry x="365" y="520" width="650" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0f5G95TOEVrCO4OxdvQK-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;b&gt;&lt;i&gt;ОС сможет подгружать страницы по мере того, как процесс&amp;nbsp; обращается к ним&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8XTwvEhWA5K8CW26sneF-1">
+          <mxGeometry x="402.5" y="600" width="575" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0f5G95TOEVrCO4OxdvQK-2" value="&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;Алгоритмы трансляции адресов: страничная организация&lt;/b&gt;&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="8XTwvEhWA5K8CW26sneF-1">
+          <mxGeometry x="40" y="40" width="1030" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
