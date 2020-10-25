@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-25T18:01:03.895Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="D0UU_1migtD9qwl_vh1m" version="13.8.2" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2020-10-25T19:13:09.222Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="oZg_R1fl0U5ohz4d_TUS" version="13.8.2" type="github" pages="34">
   <diagram id="Hq_yZwOrh3xCcCDJItGe" name="P01">
     <mxGraphModel dx="1422" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3077,8 +3077,8 @@
         <mxCell id="Q7uHKDXSSAMvEKKovgL6-71" value="&lt;font style=&quot;font-size: 20px&quot;&gt;3P+1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="Q7uHKDXSSAMvEKKovgL6-1" vertex="1">
           <mxGeometry x="190" y="220" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5Xz7EXCfG2SvzUxw1FWM-0" value="&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;Алгоритмы трансляции адресов: сегмент&lt;/b&gt;&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;+смещение&lt;/b&gt;&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Q7uHKDXSSAMvEKKovgL6-1">
-          <mxGeometry x="40" y="40" width="920" height="20" as="geometry" />
+        <mxCell id="5Xz7EXCfG2SvzUxw1FWM-0" value="&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;Алгоритмы трансляции адресов: страничная организация&lt;/b&gt;&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Q7uHKDXSSAMvEKKovgL6-1">
+          <mxGeometry x="40" y="40" width="1030" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3237,6 +3237,9 @@
         </mxCell>
         <mxCell id="GdTL5B-JVSoCY-RxRWbm-2" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Таблица страниц&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" parent="9hvxOqK3uzomqcQ6MPO--1" vertex="1">
           <mxGeometry x="10" y="550" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="jvx6VNDnaC9pov3MtoIg-0" value="&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;Алгоритмы трансляции адресов: страничная организация&lt;/b&gt;&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="9hvxOqK3uzomqcQ6MPO--1">
+          <mxGeometry x="40" y="40" width="1030" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -3444,6 +3447,9 @@
         </mxCell>
         <mxCell id="UxgxOmpiZxO5hra3I-4w-1" value="&lt;font style=&quot;font-size: 16px&quot;&gt;+&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="PUU9dbnUzKCAmrbpzSjf-1" vertex="1">
           <mxGeometry x="685" y="760" width="20" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="P450lLTTg4j0ZRREx6tG-0" value="&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;Алгоритмы трансляции адресов: страничная организация&lt;/b&gt;&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PUU9dbnUzKCAmrbpzSjf-1">
+          <mxGeometry x="40" y="40" width="1030" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
