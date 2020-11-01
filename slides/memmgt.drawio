@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-01T10:06:24.196Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Zynsj9j9NIH-VnmPZXOk" version="13.8.8" type="github" pages="34">
+<mxfile host="app.diagrams.net" modified="2020-11-01T10:08:24.088Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ibzLwRMuSOIS6Fgv-ZVI" version="13.8.8" type="github" pages="34">
   <diagram id="Hq_yZwOrh3xCcCDJItGe" name="P01">
     <mxGraphModel dx="1414" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3597,7 +3597,7 @@
         <mxCell id="qdR77kMPfM96wfs8AK3n-0" value="&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;Алгоритмы трансляции адресов: страничная организация&lt;/b&gt;&lt;b style=&quot;color: rgb(0 , 102 , 51) ; font-family: &amp;#34;garamond&amp;#34; ; font-size: 36px&quot;&gt;&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="G68bgMtMBXJ_naNZayrp-1" vertex="1">
           <mxGeometry x="40" y="40" width="1030" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="fTYViaSJd9ZvjE1t-UhZ-0" value="&lt;h2&gt;&lt;font style=&quot;font-size: 20px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;Странице не соответствует фрейм&lt;/i&gt;&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="G68bgMtMBXJ_naNZayrp-1" vertex="1">
+        <mxCell id="fTYViaSJd9ZvjE1t-UhZ-0" value="&lt;h2&gt;&lt;font style=&quot;font-size: 20px ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;i&gt;Странице не соответствует фрейм - процесс не использует эту часть адресного пространства&lt;/i&gt;&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="G68bgMtMBXJ_naNZayrp-1" vertex="1">
           <mxGeometry x="350" y="630" width="790" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fTYViaSJd9ZvjE1t-UhZ-4" value="" style="endArrow=classic;html=1;dashed=1;" parent="G68bgMtMBXJ_naNZayrp-1" source="fTYViaSJd9ZvjE1t-UhZ-0" edge="1">
