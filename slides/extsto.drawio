@@ -1,30 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T18:19:26.505Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="pGzdsmTu0VJ4O7vhF8Gz" version="13.9.7" type="github" pages="17">
-  <diagram id="xc3u4xGBhSKCASh8gc2J" name="tasks">
-    <mxGraphModel dx="1414" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="rOTV1QpFmAjA0pjUkeeb-0" />
-        <mxCell id="rOTV1QpFmAjA0pjUkeeb-1" parent="rOTV1QpFmAjA0pjUkeeb-0" />
-        <mxCell id="cFAHOd-oDGrh-Fru_s-L-0" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Задачи управления внешней памятью&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rOTV1QpFmAjA0pjUkeeb-1">
-          <mxGeometry x="40" y="40" width="920" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="cFAHOd-oDGrh-Fru_s-L-1" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Управление доступом в многопользовательской среде&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rOTV1QpFmAjA0pjUkeeb-1">
-          <mxGeometry x="40" y="360" width="730" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XbUB7Q2NyqydwhxcXm3I-0" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Предоставление механизма символьной адресации, структуризаци&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rOTV1QpFmAjA0pjUkeeb-1">
-          <mxGeometry x="40" y="120" width="900" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XbUB7Q2NyqydwhxcXm3I-1" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Управление свободным/занятым пространством&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rOTV1QpFmAjA0pjUkeeb-1">
-          <mxGeometry x="40" y="200" width="650" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XbUB7Q2NyqydwhxcXm3I-3" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Оптимизация доступа к данным&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rOTV1QpFmAjA0pjUkeeb-1">
-          <mxGeometry x="40" y="280" width="430" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XbUB7Q2NyqydwhxcXm3I-4" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Обеспечение надежности хранения&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rOTV1QpFmAjA0pjUkeeb-1">
-          <mxGeometry x="40" y="440" width="480" height="20" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
+<mxfile host="app.diagrams.net" modified="2020-11-13T18:29:37.461Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Rn_nLsIkQ72khP2SW5Xr" version="13.9.7" type="github" pages="17">
   <diagram name="physfeat" id="ed7aC1KWZ-zZLqgme0ts">
     <mxGraphModel dx="2357" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -77,6 +51,35 @@
         </mxCell>
         <mxCell id="pXPW-eyyQGi8mByl7E_u-1" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Ресурс носителя ограничен&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3HwX27IuHyW3FRnDyHxf-1">
           <mxGeometry x="40" y="600" width="370" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xc3u4xGBhSKCASh8gc2J" name="tasks">
+    <mxGraphModel dx="1414" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="rOTV1QpFmAjA0pjUkeeb-0" />
+        <mxCell id="rOTV1QpFmAjA0pjUkeeb-1" parent="rOTV1QpFmAjA0pjUkeeb-0" />
+        <mxCell id="cFAHOd-oDGrh-Fru_s-L-0" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Задачи управления внешней памятью&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="rOTV1QpFmAjA0pjUkeeb-1">
+          <mxGeometry x="40" y="40" width="920" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cFAHOd-oDGrh-Fru_s-L-1" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Управление доступом в многопользовательской среде&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rOTV1QpFmAjA0pjUkeeb-1">
+          <mxGeometry x="40" y="360" width="730" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XbUB7Q2NyqydwhxcXm3I-0" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Предоставление механизма символьной адресации, структуризаци&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rOTV1QpFmAjA0pjUkeeb-1">
+          <mxGeometry x="40" y="120" width="900" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XbUB7Q2NyqydwhxcXm3I-1" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Управление свободным/занятым пространством&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rOTV1QpFmAjA0pjUkeeb-1">
+          <mxGeometry x="40" y="200" width="650" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XbUB7Q2NyqydwhxcXm3I-3" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Оптимизация доступа к данным&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rOTV1QpFmAjA0pjUkeeb-1">
+          <mxGeometry x="40" y="280" width="430" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XbUB7Q2NyqydwhxcXm3I-4" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Обеспечение надежности хранения&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rOTV1QpFmAjA0pjUkeeb-1">
+          <mxGeometry x="40" y="440" width="480" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xmulYqWiXATbsI1IsCZk-0" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Сокращение избыточности&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rOTV1QpFmAjA0pjUkeeb-1">
+          <mxGeometry x="40" y="520" width="370" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
