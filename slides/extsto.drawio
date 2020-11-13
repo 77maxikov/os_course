@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T18:29:37.461Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Rn_nLsIkQ72khP2SW5Xr" version="13.9.7" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2020-11-13T18:34:16.800Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="v-hzKoHBaQ_iB38il5TW" version="13.9.7" type="github" pages="17">
   <diagram name="physfeat" id="ed7aC1KWZ-zZLqgme0ts">
-    <mxGraphModel dx="2357" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2357" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="3HwX27IuHyW3FRnDyHxf-0" />
         <mxCell id="3HwX27IuHyW3FRnDyHxf-1" parent="3HwX27IuHyW3FRnDyHxf-0" />
@@ -43,8 +43,8 @@
         <mxCell id="3HwX27IuHyW3FRnDyHxf-15" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Скорость доступа к блокам с соседними адресами &lt;br&gt;может существенно отличаться&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3HwX27IuHyW3FRnDyHxf-1">
           <mxGeometry x="200" y="310" width="680" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="znkjlEMw5nnrssSRagU3-0" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Но: существуют группы блоков с соседними последовательными адресами&lt;br&gt;доступ к которым занимает почти одинаковое время&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3HwX27IuHyW3FRnDyHxf-1">
-          <mxGeometry x="40" y="414" width="1000" height="40" as="geometry" />
+        <mxCell id="znkjlEMw5nnrssSRagU3-0" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Но: существуют группы блоков с соседними адресами&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;последовательный&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;доступ к которым занимает почти одинаковое время&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3HwX27IuHyW3FRnDyHxf-1">
+          <mxGeometry x="40" y="414" width="950" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pXPW-eyyQGi8mByl7E_u-0" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Скорость записи и чтения одного и того же блока может существенно различаться&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3HwX27IuHyW3FRnDyHxf-1">
           <mxGeometry x="40" y="520" width="1090" height="20" as="geometry" />
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xc3u4xGBhSKCASh8gc2J" name="tasks">
-    <mxGraphModel dx="1414" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="rOTV1QpFmAjA0pjUkeeb-0" />
         <mxCell id="rOTV1QpFmAjA0pjUkeeb-1" parent="rOTV1QpFmAjA0pjUkeeb-0" />
@@ -80,6 +80,9 @@
         </mxCell>
         <mxCell id="xmulYqWiXATbsI1IsCZk-0" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Сокращение избыточности&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rOTV1QpFmAjA0pjUkeeb-1">
           <mxGeometry x="40" y="520" width="370" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BhIZddwnPALd_D7skmtO-0" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Обеспечение единого интерфейса для разных типов носителей&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="rOTV1QpFmAjA0pjUkeeb-1">
+          <mxGeometry x="40" y="600" width="850" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
