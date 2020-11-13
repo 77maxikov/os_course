@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T11:06:22.404Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="RJCphYitf0sXjAwzow0P" version="13.9.7" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2020-11-13T11:22:12.567Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="SrCB7Jcn432Uh-Vrr4K3" version="13.9.7" type="github" pages="16">
   <diagram id="xc3u4xGBhSKCASh8gc2J" name="tasks">
     <mxGraphModel dx="1414" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -14,7 +14,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="physlog" id="ed7aC1KWZ-zZLqgme0ts">
-    <mxGraphModel dx="1414" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2357" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="3HwX27IuHyW3FRnDyHxf-0" />
         <mxCell id="3HwX27IuHyW3FRnDyHxf-1" parent="3HwX27IuHyW3FRnDyHxf-0" />
@@ -30,17 +30,14 @@
         <mxCell id="3HwX27IuHyW3FRnDyHxf-2" value="&lt;font color=&quot;#006633&quot; face=&quot;garamond&quot;&gt;&lt;span style=&quot;font-size: 36px&quot;&gt;&lt;b&gt;Особенности оборудования&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3HwX27IuHyW3FRnDyHxf-1">
           <mxGeometry x="40" y="40" width="920" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="3HwX27IuHyW3FRnDyHxf-3" value="&lt;font style=&quot;font-size: 28px&quot;&gt;Файл - область внешней памяти с &lt;i&gt;произвольным &lt;/i&gt;содержанием, &lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;которой сопоставлено символьное имя&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3HwX27IuHyW3FRnDyHxf-1">
-          <mxGeometry x="90" y="510" width="850" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="3HwX27IuHyW3FRnDyHxf-4" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Минимально адресуемая единица данных - блок размером &amp;gt;&amp;gt; 1 байт&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3HwX27IuHyW3FRnDyHxf-1">
-          <mxGeometry x="205" y="120" width="920" height="20" as="geometry" />
+          <mxGeometry x="200" y="120" width="920" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3HwX27IuHyW3FRnDyHxf-5" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="3HwX27IuHyW3FRnDyHxf-1">
           <mxGeometry x="70" y="130" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3HwX27IuHyW3FRnDyHxf-10" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Размеры блоков - различны для разных носителей&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3HwX27IuHyW3FRnDyHxf-1">
-          <mxGeometry x="205" y="180" width="680" height="20" as="geometry" />
+          <mxGeometry x="200" y="180" width="680" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3HwX27IuHyW3FRnDyHxf-11" value="" style="endArrow=none;html=1;" edge="1" parent="3HwX27IuHyW3FRnDyHxf-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -53,6 +50,12 @@
             <mxPoint x="100" y="145" as="sourcePoint" />
             <mxPoint x="130" y="145" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3HwX27IuHyW3FRnDyHxf-13" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Адресация блоков - линейная (&lt;/span&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;обычно&lt;/span&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;)&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3HwX27IuHyW3FRnDyHxf-1">
+          <mxGeometry x="200" y="250" width="530" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="3HwX27IuHyW3FRnDyHxf-15" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Скорость доступа к блокам с соседними адресами &lt;br&gt;может существенно отличаться&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3HwX27IuHyW3FRnDyHxf-1">
+          <mxGeometry x="200" y="310" width="680" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
