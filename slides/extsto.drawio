@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T11:51:28.156Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="Z_a4B8Js2A7wKj6gUdZs" version="13.9.7" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2020-11-13T12:07:09.694Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="3Ph9aoF5rFYRne80r_UN" version="13.9.7" type="github" pages="17">
   <diagram id="xc3u4xGBhSKCASh8gc2J" name="tasks">
     <mxGraphModel dx="1414" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -69,6 +69,9 @@
         <mxCell id="3HwX27IuHyW3FRnDyHxf-15" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Скорость доступа к блокам с соседними адресами &lt;br&gt;может существенно отличаться&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3HwX27IuHyW3FRnDyHxf-1">
           <mxGeometry x="200" y="310" width="680" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="znkjlEMw5nnrssSRagU3-0" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Но: существуют группы блоков с соседними последовательными адресами&lt;br&gt;доступ к которым занимает почти одинаковое время&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="3HwX27IuHyW3FRnDyHxf-1">
+          <mxGeometry x="40" y="414" width="1000" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -107,7 +110,13 @@
           <mxGeometry x="80" y="200" width="570" height="20" as="geometry" />
         </mxCell>
         <mxCell id="6UB_yrfn1rEznxxvSnjK-1" value="&lt;span style=&quot;font-size: 28px&quot;&gt;В какой части носителя размещать индекс?&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="J2rxL1dRx8pRGgQL_BUZ-1">
-          <mxGeometry x="75" y="360" width="590" height="20" as="geometry" />
+          <mxGeometry x="80" y="360" width="590" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5SSi4TuJNM8g9JbtK3WE-0" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Какую информацию должен содержать индекс?&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="J2rxL1dRx8pRGgQL_BUZ-1">
+          <mxGeometry x="80" y="440" width="640" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5SSi4TuJNM8g9JbtK3WE-1" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Как будет меняться содержимое индекса при обращении к файлам?&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="J2rxL1dRx8pRGgQL_BUZ-1">
+          <mxGeometry x="80" y="520" width="910" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
