@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-13T13:21:55.833Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="sKqEbLexlrBTToPRxwmg" version="13.9.7" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2020-11-13T18:19:26.505Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="pGzdsmTu0VJ4O7vhF8Gz" version="13.9.7" type="github" pages="17">
   <diagram id="xc3u4xGBhSKCASh8gc2J" name="tasks">
     <mxGraphModel dx="1414" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="5SSi4TuJNM8g9JbtK3WE-1" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Как будет меняться содержимое индекса при обращении к файлам?&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="J2rxL1dRx8pRGgQL_BUZ-1">
           <mxGeometry x="80" y="520" width="910" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="5SSi4TuJNM8g9JbtK3WE-2" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Нужно ли учитывать при организации индекса особенности доступа к файлам?&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="J2rxL1dRx8pRGgQL_BUZ-1">
+        <mxCell id="5SSi4TuJNM8g9JbtK3WE-2" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Нужно ли учитывать&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;особенности доступа к файлам&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 28px&quot;&gt;при организации индекса?&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="J2rxL1dRx8pRGgQL_BUZ-1">
           <mxGeometry x="80" y="600" width="1050" height="20" as="geometry" />
         </mxCell>
       </root>
