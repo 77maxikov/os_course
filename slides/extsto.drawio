@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-15T09:18:35.884Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="5fBBb6rU6aS6PnLDHuGD" version="13.9.7" type="github" pages="19">
+<mxfile host="app.diagrams.net" modified="2020-11-15T19:26:18.370Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="ukaTJEgoOq4rtpfHRvlM" version="13.9.7" type="github" pages="19">
   <diagram name="physfeat" id="ed7aC1KWZ-zZLqgme0ts">
     <mxGraphModel dx="1414" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -449,7 +449,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="meta" id="25FoJtcDMytmnSQkO90V">
-    <mxGraphModel dx="1414" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1414" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="J7bycmRgQ2O8y-Wxen7i-0" />
         <mxCell id="J7bycmRgQ2O8y-Wxen7i-1" parent="J7bycmRgQ2O8y-Wxen7i-0" />
@@ -468,11 +468,14 @@
         <mxCell id="J7bycmRgQ2O8y-Wxen7i-6" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Время: создание / последний доступ&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="J7bycmRgQ2O8y-Wxen7i-1">
           <mxGeometry x="40" y="440" width="510" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="J7bycmRgQ2O8y-Wxen7i-7" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Информация о размещении на носителе&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="J7bycmRgQ2O8y-Wxen7i-1">
-          <mxGeometry x="40" y="520" width="550" height="20" as="geometry" />
+        <mxCell id="J7bycmRgQ2O8y-Wxen7i-7" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Информация о размещении на носителе блоков, содержащих данные файла&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="J7bycmRgQ2O8y-Wxen7i-1">
+          <mxGeometry x="40" y="520" width="1030" height="20" as="geometry" />
         </mxCell>
         <mxCell id="J7bycmRgQ2O8y-Wxen7i-8" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Тип файла: регулярный файл / каталог / ...&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="J7bycmRgQ2O8y-Wxen7i-1">
           <mxGeometry x="40" y="120" width="570" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2OixdBJxWe3mJ9E5Nn7B-0" value="&lt;span style=&quot;font-size: 28px&quot;&gt;Квоты&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="J7bycmRgQ2O8y-Wxen7i-1">
+          <mxGeometry x="40" y="600" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
